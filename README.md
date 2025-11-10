@@ -1,5 +1,6 @@
-![Descrição da imagem](foto/limax.jpeg)
+<img src="foto/limax.jpeg" alt="Banner" width="100%">
 
+# Título do Meu Projeto
 
 # ⚠️ Ferramenta de Segurança Instagram (Fins Educacionais)
 
