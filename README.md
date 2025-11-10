@@ -1,4 +1,4 @@
-!(foto/limax.jpeg)
+![Descrição da imagem](foto/limax.jpeg)
 
 
 # ⚠️ Ferramenta de Segurança Instagram (Fins Educacionais)
