@@ -1,4 +1,5 @@
-# instaBreaker-beta
+!(foto/limax.jpeg)
+
 
 # ⚠️ Ferramenta de Segurança Instagram (Fins Educacionais)
 
